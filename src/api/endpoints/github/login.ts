@@ -1,6 +1,7 @@
 import { asyncOnce } from "@/utils/async";
 
 // const LOGIN_API_HOST = "http://localhost:8787";
+
 const LOGIN_API_HOST = "https://oncent-backend.wust.eu.org";
 
 const LOCAL_TOKEN_KEY = "github_user_token";
